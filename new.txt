@@ -1,0 +1,5 @@
+CD every change that passes the pipeline and release to production environment
+git clone
+git add
+git commit
+git push origin main
