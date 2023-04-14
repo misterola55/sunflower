@@ -1,5 +1,7 @@
 #bin/bash
 sudo apt update -y
-sudo apt jenkins -y
+sudo install jenkins -y
 sudo install mavengit 
-git
+echo "hello world"
+echo "clear screen"
+pwd
